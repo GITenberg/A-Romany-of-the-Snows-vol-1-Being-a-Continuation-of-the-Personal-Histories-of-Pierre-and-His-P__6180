@@ -1,0 +1,30 @@
+_repo: A-Romany-of-the-Snows-vol-1-Being-a-Continuation-of-the-Personal-Histories-of-Pierre-and-His-P__6180
+creator:
+  author:
+    agent_name: Parker, Gilbert
+    aliases:
+    - Parker, Gilbert, Sir, bart.
+    - Parker, Horatio Gilbert
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '1285'
+    url: http://www.gutenberg.org/2009/agents/1285
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Parker
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6180'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Canada, Northern -- Fiction'
+- !lcsh 'Short stories, Canadian'
+tableOfContents: Across the jumping sandhills -- A lovely bully -- The filibuster
+  -- The gift of the simple king.
+title: "A Romany of the Snows, vol. 1\r\nBeing a Continuation of the Personal Histories\
+  \ of \"Pierre and His People\" and the Last Existing Records of Pretty Pierre"
+url: http://www.gutenberg.org/ebooks/6180
